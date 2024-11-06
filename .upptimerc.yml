@@ -6,16 +6,26 @@ sites:
   - name: AquaticTherapy.co.uk
     url: https://aquatictherapy.co.uk/
   - name: Ecoweb.Host
-    url: https://ecoweb.host
+    url: https://ecoweb.host/
+  - name: GillighansWorld.ie
+    url: https://gillighansworld.ie/
   - name: NeilDonnelly.ie
-    url: https://neildonnelly.ie
+    url: https://neildonnelly.ie/
+  - name: PaulColreavy.com
+    url: https://paulcolreavy.com/  
   - name: QualitySeaVeg.ie
-    url: https://qualityseaveg.ie
+    url: https://qualityseaveg.ie/
+  - name: RIPcounties.ie
+    url: https://ripcounties.ie/
   - name: SligoWellness.com
     url: https://sligowellness.com/
-    #port: 80
-    #check: "tcp-ping"
-    #ipv6: true
+  - name: The ArkCounselling.ie
+    url: https://thearkcounselling.ie/
+  - name: Turbike.org
+    url: https://turbike.org
+  - name: YourVaacineSafety.ie
+    url: https://yourvaccinesafety.ie/
+
 
 assignees: # Users to assign downtime issues (optional)
   - ecoweb-dot-host
