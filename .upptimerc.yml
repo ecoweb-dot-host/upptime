@@ -13,9 +13,9 @@ sites:
     url: https://qualityseaveg.ie
   - name: SligoWellness.com
     url: https://sligowellness.com/
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+    #port: 80
+    #check: "tcp-ping"
+    #ipv6: true
 
 assignees: # Users to assign downtime issues (optional)
   - ecoweb-dot-host
