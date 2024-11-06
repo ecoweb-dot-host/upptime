@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1290,
-    "timeDay": 1290,
-    "timeWeek": 1290,
-    "timeMonth": 1290,
-    "timeYear": 1290,
+    "time": 1225,
+    "timeDay": 1225,
+    "timeWeek": 1225,
+    "timeMonth": 1225,
+    "timeYear": 1225,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2922,
-    "timeDay": 2922,
-    "timeWeek": 2922,
-    "timeMonth": 2922,
-    "timeYear": 2922,
+    "time": 2815,
+    "timeDay": 2815,
+    "timeWeek": 2815,
+    "timeMonth": 2815,
+    "timeYear": 2815,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1722,
-    "timeDay": 1722,
-    "timeWeek": 1722,
-    "timeMonth": 1722,
-    "timeYear": 1722,
+    "time": 1546,
+    "timeDay": 1546,
+    "timeWeek": 1546,
+    "timeMonth": 1546,
+    "timeYear": 1546,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 710,
-    "timeWeek": 710,
-    "timeMonth": 710,
-    "timeYear": 710,
+    "time": 677,
+    "timeDay": 677,
+    "timeWeek": 677,
+    "timeMonth": 677,
+    "timeYear": 677,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sligowellness.com.ico",
     "slug": "sligo-wellness-com",
     "status": "down",
-    "uptime": "4.21%",
-    "uptimeDay": "4.21%",
-    "uptimeWeek": "4.21%",
-    "uptimeMonth": "4.21%",
-    "uptimeYear": "4.21%",
+    "uptime": "0.37%",
+    "uptimeDay": "0.37%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-06": 0
+      "2024-11-06": 3
     }
   }
 ]
