@@ -12,7 +12,7 @@ sites:
   - name: QualitySeaVeg.ie
     url: https://qualityseaveg.ie
   - name: SligoWellness.com
-    url: https://sligowellness.com
+    url: https://sligowellness.com/
     port: 80
     check: "tcp-ping"
     ipv6: true
