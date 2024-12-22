@@ -1,7 +1,7 @@
 url: https://ripcounties.ie/
-status: up
-code: 200
-responseTime: 1188
-lastUpdated: 2024-12-21T23:09:01.064Z
+status: down
+code: 503
+responseTime: 587
+lastUpdated: 2024-12-22T22:45:47.298Z
 startTime: 2024-11-06T22:22:20.185Z
 generator: Upptime <https://github.com/upptime/upptime>
