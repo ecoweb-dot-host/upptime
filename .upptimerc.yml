@@ -11,6 +11,8 @@ sites:
     url: https://lymphingalong.com/
   - name: NeilDonnelly.ie
     url: https://neildonnelly.ie/
+  - name: Oisin.page
+    url: https://oisin.page
   - name: PaulColreavy.com
     url: https://paulcolreavy.com/  
   - name: QualitySeaVeg.ie
@@ -23,6 +25,8 @@ sites:
     url: https://thearkcounselling.ie/
   - name: Turbike.org
     url: https://turbike.org
+  - name: WereYouInformed.com
+    url: https://wereyouinformed.com/
   - name: YourVaacineSafety.ie
     url: https://yourvaccinesafety.ie/
 
